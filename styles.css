@@ -1,0 +1,38 @@
+html{
+  scroll-behavior:smooth;
+}
+    body{
+      background:#FFC2C2;
+    }
+
+    main{
+      display: block;
+      margin:auto;
+      width: 500px;
+
+    }
+    /* I centered the main tag */
+    .center{
+     display:block;
+     margin-right: auto;
+     margin-left: auto;
+     width: 130px;
+     }
+    body{
+      font-size:16px;
+      font-family:arial,helvetica,sans-serif
+      line-height:1.2
+    }
+    li{
+      line-height:1.2;
+    }
+    a{
+      color:black;
+    }
+    img{
+      max-width:100%;
+    }
+    .cover-art{
+      width:80%;
+    }
+  /* April helped edit my tags correctly */
